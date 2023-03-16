@@ -10,7 +10,7 @@
 }
 
 /*div father*/
-.container{
+#grid_container{
     width: 480px;
     height: 350px;
     margin: 20px auto;
@@ -145,7 +145,7 @@
 /*media for movil*/
 
 @media (max-width: 500px){
-    .container{
+    #grid_container{
         width: 240px;
         height: 350px;
         margin: 20px auto;
@@ -156,7 +156,7 @@
 }
 
 @media (max-width: 350px){
-    .container{
+    #gird_container{
         width: 200px;
         height: 300px;
         margin: 20px auto;
